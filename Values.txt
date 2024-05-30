@@ -1,0 +1,9 @@
+﻿21
+55
+34
+23
+1
+2
+3
+
+My progress of learning C# is so incredible!
